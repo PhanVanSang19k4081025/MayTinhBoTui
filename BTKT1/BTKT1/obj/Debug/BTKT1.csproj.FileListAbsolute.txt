@@ -1,0 +1,11 @@
+C:\Users\Admin\documents\visual studio 2012\Projects\BTKT1\BTKT1\bin\Debug\BTKT1.exe.config
+C:\Users\Admin\documents\visual studio 2012\Projects\BTKT1\BTKT1\bin\Debug\BTKT1.exe
+C:\Users\Admin\documents\visual studio 2012\Projects\BTKT1\BTKT1\bin\Debug\BTKT1.pdb
+C:\Users\Admin\documents\visual studio 2012\Projects\BTKT1\BTKT1\obj\Debug\BTKT1.Form1.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\BTKT1\BTKT1\obj\Debug\BTKT1.Programmer.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\BTKT1\BTKT1\obj\Debug\BTKT1.Properties.Resources.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\BTKT1\BTKT1\obj\Debug\BTKT1.Scientific.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\BTKT1\BTKT1\obj\Debug\BTKT1.Standard.resources
+C:\Users\Admin\documents\visual studio 2012\Projects\BTKT1\BTKT1\obj\Debug\BTKT1.csproj.GenerateResource.Cache
+C:\Users\Admin\documents\visual studio 2012\Projects\BTKT1\BTKT1\obj\Debug\BTKT1.exe
+C:\Users\Admin\documents\visual studio 2012\Projects\BTKT1\BTKT1\obj\Debug\BTKT1.pdb
